@@ -1,2 +1,2 @@
 # Proyecto-Vaporw
-Portal hobby vaporwave and future funk
+Primera idea de pagina web dedicada al vaporwave/future funk.
